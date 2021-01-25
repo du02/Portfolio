@@ -4,9 +4,10 @@ Estou cusando Engenharia de Software, em breve me formando. Sou apaixonado por t
 gosto tanto do front-end quando do back-end e mobile também.
 
 ### 💼 Projetos:
-> API_Pesquisa de livros: https://github.com/du02/API-Rest_Pesquisa-de-Livros
 
 > Calk - App de calculadora: https://github.com/du02/Calk
+
+> API_Pesquisa de livros: https://github.com/du02/API-Rest_Pesquisa-de-Livros
 
 > Semana_OmniStack 11: https://github.com/du02/Semana_OmniStack11
 
