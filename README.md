@@ -1,4 +1,3 @@
-![Eduardo_Ferreira-removebg-preview](https://user-images.githubusercontent.com/40076527/105754126-728b6280-5f28-11eb-9d64-6a3bac46f57f.png)
 ### 🖥 Desenvolvedor
 Estou cusando Engenharia de Software, em breve me formando. Sou apaixonado por tecnologia e afins tenho alguns projetos que estou fazendo,
 gosto tanto do front-end quando do back-end e mobile também.
