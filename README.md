@@ -4,6 +4,8 @@ gosto tanto do front-end quando do back-end e mobile também.
 
 ### 💼 Projetos:
 
+> Educ Infinity: https://github.com/du02/educ (Meu projeto de TCC, está em desenvolvimento - Laravel)
+
 > DayMoney: https://github.com/du02/DayMoney (Projeto de consulta de moedas - React Native)
 
 > Calk - App de calculadora: https://github.com/du02/Calk (Projeto de aula React Native)
