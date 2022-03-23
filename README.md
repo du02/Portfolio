@@ -16,8 +16,6 @@ gosto tanto do front-end quando do back-end e mobile também.
 
 > Rich Text: https://github.com/du02/Rich-text-Editor-de-texto-SImples (Editor de texto simples com React)
 
-> Site web do Clã Brook of Souls: http://brookofsouls.xyz/ (Pág. web PHP, HTML5, CSS3 e JS)
-
 > Clone da pág. login intagram: https://github.com/du02/PageLogin-Insta (Pág. web simples HTML5 e CSS3)
 
 > Primeira página de login que fiz: https://github.com/du02/login (Pág. web simples HTML5 e CSS3)
