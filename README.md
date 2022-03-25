@@ -6,7 +6,7 @@ gosto tanto do front-end quando do back-end e mobile também.
 
 > Monthly Fair : https://github.com/du02/monthly-fair (Sistema de cadastro de produtos alimentícios - Laravel 7 e Bootstrap 4)
 
-> Monthly Fair : https://github.com/du02/game_library (Sistema de cadastro de Jogos "Crie sua biblioteca de jogos" - Laravel 7 e bootstrap 5)
+> Library Game : https://github.com/du02/game_library (Sistema de cadastro de Jogos "Crie sua biblioteca de jogos" - Laravel 7 e bootstrap 5)
 
 > DayMoney: https://github.com/du02/DayMoney (Projeto de consulta de moedas - React Native)
 
