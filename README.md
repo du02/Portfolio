@@ -24,5 +24,5 @@ gosto tanto do front-end quando do back-end e mobile também.
 
 > Primeira página de login que fiz: https://github.com/du02/login (Pág. web simples HTML5 e CSS3)
 
-#### Obs
+### 📚 OBS
 Quero cada dia avançar ainda mais 😄😎
