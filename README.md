@@ -10,7 +10,7 @@ gosto tanto do front-end quando do back-end e mobile também.
 #### API
 > API_Pesquisa de livros: https://github.com/du02/API-Rest_Pesquisa-de-Livros (Projeto em NODE.js consumindo API)
 
-#### React Native
+#### Apps
 > DayMoney: https://github.com/du02/DayMoney (Projeto de consulta de moedas - React Native)
 
 > Calk - App de calculadora: https://github.com/du02/Calk (Projeto de aula React Native)
