@@ -36,8 +36,8 @@ gosto tanto do front-end quando do back-end e mobile também.
 > - Calk - App de calculadora: https://github.com/du02/Calk (Projeto de aula React Native)
 
 #### Front-End
-> - Semana_OmniStack 11: https://github.com/du02/Semana_OmniStack11 (Projeto em React e React native)
-> - Rich Text: https://github.com/du02/Rich-text-Editor-de-texto-SImples (Editor de texto simples com React)
+> - Semana_OmniStack 11: https://github.com/du02/Semana_OmniStack11 (Projeto em ReactJS e React Native)
+> - Rich Text: https://github.com/du02/Rich-text-Editor-de-texto-SImples (Editor de texto simples com ReactJS)
 
 ### 📚 OBS
 Quero cada dia avançar ainda mais - (I want to go even further each day) 😄😎
