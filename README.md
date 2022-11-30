@@ -27,7 +27,7 @@ gosto tanto do front-end quando do back-end e mobile também.
 
 #### PHP
 > - Monthly Fair : https://github.com/du02/monthly-fair (Sistema de cadastro de produtos alimentícios - Laravel 7 e Bootstrap 4)
-> - Educ Infinity : https://github.com/du02/educ_infinity/blob/main/README.md - (Sistema educacional/gameficado - Laravel 6 e Bootstrap 4)
+> - Educ Infinity : https://github.com/du02/educ_infinity/blob/main/README.md - (Sis. educacional/gameficado - Laravel 6 e Bootstrap 4)
 > - laravel AJAX : https://github.com/du02/laravel_ajax_list_tasks (Sitema criado com Laravel 8 e Jquery + Ajax)
 
 #### API
