@@ -1,10 +1,9 @@
 ### Olá, sou Eduardo Ferreira (Hi, I'm Eduardo Ferreira) 👋
 [![site](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-ferreira-355a64157/) [![email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](eduardoferreira021294@gmail.com)
 ------------------
-Estou cusando Engenharia de Software, em breve me formando. Sou apaixonado por tecnologia e afins tenho alguns projetos que estou fazendo,
-gosto tanto do front-end quando do back-end e mobile também.
+Graduado em Engenharia de Software e pós-graduado em Desenvolvimento Web. Apaixonado por tecnologia e movido pelo desejo constante de aprender, não importa quão desafiadora seja a jornada.
 
-(I'm studying Software Engineering, graduating soon. I'm passionate about technology and I have some projects that I'm doing, I like both the front-end and the back-end and mobile too.)
+(Graduated in Software Engineering and postgraduate in Web Development. Passionate about technology and driven by the constant desire to learn, no matter how challenging the journey.)
 
 
 ### Aprendendo e fazendo (Learning and doing) 📚 
@@ -22,10 +21,15 @@ gosto tanto do front-end quando do back-end e mobile também.
 [![reactjs](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)]()
 [![springboot](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)]()
 ------------------
+### 💼 Projetos atuais - (Current projects):
 
-### 💼 Projetos - (Projects):
+#### API
+> - eCommerce : https://github.com/du02/eCommerce/tree/main (.NET8 e DAPPER)
+> - CleanArchMvc : https://github.com/du02/CleanArchMvc (.NET 6)
 
-#### PHP
+### 💼 Primeiros Projetos - (First Projects):
+
+#### APLICAÇÕES WEB
 > - Educ Infinity : https://github.com/du02/educ_infinity/blob/main/README.md - (Sis. educacional/gameficado - Laravel 6 e Bootstrap 4)
 > - Monthly Fair : https://github.com/du02/monthly-fair (Sistema de cadastro de produtos alimentícios - Laravel 7 e Bootstrap 4)
 > - laravel AJAX : https://github.com/du02/laravel_ajax_list_tasks (Sitema criado com Laravel 8 e Jquery + Ajax)
@@ -33,12 +37,11 @@ gosto tanto do front-end quando do back-end e mobile também.
 #### API
 > - API_Pesquisa de livros: https://github.com/du02/API-Rest_Pesquisa-de-Livros (Projeto em NODE.js consumindo API)
 
-#### Apps
+#### Apps (mobile)
 > - DayMoney: https://github.com/du02/DayMoney (Projeto de consulta de moedas - React Native)
 > - Calk - App de calculadora: https://github.com/du02/Calk (Projeto de aula React Native)
 
 #### Front-End
-> - Semana_OmniStack 11: https://github.com/du02/Semana_OmniStack11 (Projeto em ReactJS e React Native)
 > - Rich Text: https://github.com/du02/Rich-text-Editor-de-texto-SImples (Editor de texto simples com ReactJS)
 
 ### 📚 OBS
