@@ -33,8 +33,5 @@ Graduado em Engenharia de Software e pós-graduado em Desenvolvimento Web. Apaix
 > - DayMoney: https://github.com/du02/DayMoney (Projeto de consulta de moedas - React Native)
 > - Calk - App de calculadora: https://github.com/du02/Calk (Projeto de aula React Native)
 
-#### Front-End
-> - Rich Text: https://github.com/du02/Rich-text-Editor-de-texto-SImples (Editor de texto simples com ReactJS)
-
 ### 📚 OBS
 Quero cada dia avançar ainda mais - (I want to go even further each day) 😄😎
