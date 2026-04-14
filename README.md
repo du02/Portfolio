@@ -26,9 +26,6 @@ Graduado em Engenharia de Software e pós-graduado em Desenvolvimento Web. Apaix
 > - Monthly Fair : https://github.com/du02/monthly-fair (Sistema de cadastro de produtos alimentícios - Laravel 7 e Bootstrap 4)
 > - laravel AJAX : https://github.com/du02/laravel_ajax_list_tasks (Sitema criado com Laravel 8 e Jquery + Ajax)
 
-#### API
-> - API_Pesquisa de livros: https://github.com/du02/API-Rest_Pesquisa-de-Livros (Projeto em NODE.js consumindo API)
-
 #### Apps (mobile)
 > - DayMoney: https://github.com/du02/DayMoney (Projeto de consulta de moedas - React Native)
 > - Calk - App de calculadora: https://github.com/du02/Calk (Projeto de aula React Native)
