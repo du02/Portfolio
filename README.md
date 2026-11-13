@@ -22,7 +22,6 @@ Graduado em Engenharia de Software e pós-graduado em Desenvolvimento Web. Apaix
 ### 💼 Primeiros Projetos - (First Projects):
 
 #### APLICAÇÕES WEB
-> - Educ Infinity : https://github.com/du02/educ_infinity/blob/main/README.md - (Sis. educacional/gameficado - Laravel 6 e Bootstrap 4)
 > - Monthly Fair : https://github.com/du02/monthly-fair (Sistema de cadastro de produtos alimentícios - Laravel 7 e Bootstrap 4)
 > - laravel AJAX : https://github.com/du02/laravel_ajax_list_tasks (Sitema criado com Laravel 8 e Jquery + Ajax)
 
